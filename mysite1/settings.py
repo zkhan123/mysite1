@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'g$+%3ezzd29e!ih!mh=0#6l4&e@5fa=_b&==abcgx)1kxsuj4c'
+SECRET_KEY = 'b$t#24ktolgbx2*_^!lg#ohy1f!kgro(zak$4t+vp#1+*=1+ju'
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
